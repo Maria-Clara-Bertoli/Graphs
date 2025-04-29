@@ -1,4 +1,4 @@
-# 🧠🔗 Implementação e Estudos sobre Grafos
+# 🧠🔗 Implementação e Estudos Sobre Grafos
 
 Este repositório contém a **implementação** e **estudos** sobre **grafos**.
 
